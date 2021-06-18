@@ -19,10 +19,10 @@
         "class": "Xpressengine\\Installer\\XpressengineInstallerPlugin"
     },
     "require": {
-        "composer-plugin-api": "1.1.*"
+        "composer-plugin-api": "~2.0.0"
     },
     "require-dev": {
-        "composer/composer": "1.1.*",
+        "composer/composer": "~2.0.0",
         "phpunit/phpunit": "4.0.*",
         "mockery/mockery": "dev-master@dev"
     }
